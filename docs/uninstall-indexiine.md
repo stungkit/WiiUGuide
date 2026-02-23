@@ -6,7 +6,7 @@ This page will guide through the process of uninstalling Indexiine from your Wii
 - The latest release of the [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/v1.5). (The `homebrew_launcher.v1.5.zip` file)
 - The latest release of the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest). (The `payload.zip` file)
 - The [Indexiine Installer](https://github.com/GaryOderNichts/indexiine-installer/releases/latest). (The `indexiine-installer.zip` file)
-- The default [index.html file](/files/backup-index.html). (You will get a file named `backup-index.html`)
+- The default [index.html file](/files/backup-index.html){download}. (You will get a file named `backup-index.html`)
 
 ## Setting Up The SD Card
 First, ensure your SD card is formatted in FAT32. You can do so by using [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm).
